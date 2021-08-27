@@ -7,13 +7,17 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
-
+  
+  - [Demonstration](#demonstration)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
   - [License](#license)
   - [Questions](#questions)
+
+  ## Demonstration
+  
+  This is a video link demonstrating the app's functionality.
+  https://drive.google.com/file/d/1qlGRrAGKj-IHJ6mmdssMbiM-SkXg0oXN/view?usp=sharing
 
   ## Installation
 
@@ -22,14 +26,6 @@
   ## Usage
 
   Run index.js in the CLI and the inquirer prompts will begin, allowing user interaction.
-
-  ## Contributing
-
-  N/A
-
-  ## Tests
-
-  N/A
 
   ## License
 
